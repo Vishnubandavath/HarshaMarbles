@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 80" fill="none">
+  <defs>
+    <linearGradient id="logo-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00D2FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#9281FE;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(10, 10)">
+    <path d="M10 25 V5 H50 V45 H35" stroke="url(#logo-grad)" stroke-width="2.5" fill="none" stroke-linecap="square"/>
+    <text x="30" y="32" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="url(#logo-grad)" text-anchor="middle">H</text>
+  </g>
+
+  <g transform="translate(230, 40)">
+    <text x="0" y="0" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="28" letter-spacing="6" fill="url(#logo-grad)" font-weight="700" text-anchor="middle">HARSHA NAIK</text>
+    
+    <text x="0" y="24" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" letter-spacing="14" fill="url(#logo-grad)" font-weight="700" text-anchor="middle">MARBLES</text>
+  </g>
+</svg>
